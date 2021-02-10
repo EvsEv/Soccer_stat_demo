@@ -1,0 +1,15 @@
+.select {
+    padding: 20px 12px 10px;
+    display: flex;
+    align-items: center;
+
+    p {
+        margin-right: 20px;
+        font-style: italic;
+        color: gray;
+    }
+
+    .MuiInputBase-root.MuiInput-root.MuiInput-underline {
+        background-color: seashell;
+    }
+}

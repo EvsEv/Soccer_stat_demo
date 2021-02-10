@@ -1,0 +1,32 @@
+.mobile {
+    display: none;
+}
+
+.header {
+    width: 100%;
+    padding: 15px 0;
+    background-color: rgb(12, 145, 28);
+    position: fixed;
+    z-index: 2;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.burger {
+    display: none;
+}
+
+@media screen and (max-width: 1024px) {
+    .burger {
+        display: block;
+        position: absolute;
+        top: 15%;
+        left: 20px;
+    }
+
+    .wrapper {
+        text-align: center;
+    }
+}

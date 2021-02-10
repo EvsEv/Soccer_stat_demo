@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Soccer_stat_demo/build/static/css/main.2ddab2a6.chunk.css",
+    "main.js": "/Soccer_stat_demo/build/static/js/main.0523b432.chunk.js",
+    "main.js.map": "/Soccer_stat_demo/build/static/js/main.0523b432.chunk.js.map",
+    "runtime-main.js": "/Soccer_stat_demo/build/static/js/runtime-main.31d8a486.js",
+    "runtime-main.js.map": "/Soccer_stat_demo/build/static/js/runtime-main.31d8a486.js.map",
+    "static/css/2.80e6564a.chunk.css": "/Soccer_stat_demo/build/static/css/2.80e6564a.chunk.css",
+    "static/js/2.b5189016.chunk.js": "/Soccer_stat_demo/build/static/js/2.b5189016.chunk.js",
+    "static/js/2.b5189016.chunk.js.map": "/Soccer_stat_demo/build/static/js/2.b5189016.chunk.js.map",
+    "static/js/3.86f9d25b.chunk.js": "/Soccer_stat_demo/build/static/js/3.86f9d25b.chunk.js",
+    "static/js/3.86f9d25b.chunk.js.map": "/Soccer_stat_demo/build/static/js/3.86f9d25b.chunk.js.map",
+    "index.html": "/Soccer_stat_demo/build/index.html",
+    "static/css/2.80e6564a.chunk.css.map": "/Soccer_stat_demo/build/static/css/2.80e6564a.chunk.css.map",
+    "static/css/main.2ddab2a6.chunk.css.map": "/Soccer_stat_demo/build/static/css/main.2ddab2a6.chunk.css.map",
+    "static/js/2.b5189016.chunk.js.LICENSE.txt": "/Soccer_stat_demo/build/static/js/2.b5189016.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Soccer_stat_demo/build/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d8a486.js",
+    "static/css/2.80e6564a.chunk.css",
+    "static/js/2.b5189016.chunk.js",
+    "static/css/main.2ddab2a6.chunk.css",
+    "static/js/main.0523b432.chunk.js"
+  ]
+}

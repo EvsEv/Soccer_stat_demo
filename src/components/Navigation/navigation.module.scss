@@ -1,0 +1,45 @@
+.menu {
+    flex-grow: 2;
+}
+
+.list {
+    padding-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style-type: none;
+    position: relative;
+}
+
+.item {
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    display: block;
+    padding: 7px;
+    transition: all 0.4s ease;
+
+    &:hover {
+        color: rgb(255, 255, 255);
+        border-bottom: 2px solid rgba(137, 164, 255, 0.563);
+    }
+}
+
+.active {
+    color: white;
+    border-bottom: 2px solid white;
+}
+
+.MuiButtonBase-root {
+    .link {
+        text-decoration: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .menu {
+        display: none;
+    }
+}
